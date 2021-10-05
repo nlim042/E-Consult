@@ -40,6 +40,7 @@ tools:context=".Question3">
         android:layout_marginTop="520dp"
         android:contentDescription="@string/back_button"
 
+        android:onClick="Back"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/abc_vector_test" />

@@ -35,4 +35,12 @@ public class Question3 extends AppCompatActivity {
 
     }
 
+    public void Back(View view) {
+        // Create an Intent to start the second activity
+        Intent backToQ2 = new Intent(this, Question2.class);
+
+        // Start the intended activity
+        startActivity(backToQ2);
+    }
+
 }
