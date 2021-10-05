@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">E-Consultation</string>
+    //top banner
+    <string name="mascot">mascot</string>
+    //main activity
+    <string name="next_button">next_button</string>
+    //
+    <string name="back_button">back_button</string>
+    <string name="no">No</string>
+    //q2
+    <string name="yes">Yes</string>
+    //q2
+    <string name="do_you_have_a_fever_above_38_c">Do you have a fever above 38°C?</string>
+    <string name="mascot2">mascot</string>
+    <string name="please_state_the_name_of_the_medication">Please state the name of the medication.</string>
+    <string name="drugexamples">DrugExamples</string>
+    <string name="e_g_paracetamol1">E.g. Paracetamol</string>
+    <string name="are_you_currently_on_any_medication">Are you currently on any medication?</string>
+    <string name="yes1">Yes</string>
+    <string name="no1">No</string>
+    <string name="mascot1">mascot</string>
+    <string name="do_you_have_any_drug_allergies">Do you have any drug allergies?</string>
+    <string name="yes2">Yes</string>
+    <string name="no2">No</string>
+    <string name="mascot3">mascot</string>
+    <string name="yes3">Yes</string>
+    <string name="no3">No</string>
+    <string name="e_g_paracetamol2">E.g. Paracetamol</string>
+    <string name="please_state_the_name_of_the_medicine1">Please state the name of the medication:</string>
+    <string name="yes4">Yes</string>
+    <string name="no4">No</string>
+</resources>
